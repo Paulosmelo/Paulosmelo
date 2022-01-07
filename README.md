@@ -1,12 +1,12 @@
 # Hi there, I'm Paulo Matheus 🙋‍♂️👋
-Currently, a Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) and Software Engineer Intern [@Viitra](https://www.viitra.com/home).
+Currently, a Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) and Data Engineer Intern [@ClearSale](https://br.clear.sale/).
 
 ## 🤘 Quick facts about me
-❤️ Driven by **problem solving** and **learning** new technologies. Currently, excited about data science, data visualization and good development practices as SOLID and Design patterns. In my spare time I like to play different sports: volleyball, muay thai and soccer;  and stay with my people.
+❤️ Driven by **problem solving** and **learning** new technologies. Currently, excited about data engineering, data science, data visualization and good development practices. In my spare time I like to play different sports: volleyball, muay thai and soccer;  and stay with my people.
 
 
-## 💻 Professional projects I work 
-- [**Redu**](https://redu.digital/): Redu is a learning environment using Opensource code [@Openredu](http://openredu.org/) and used by big Education companies like [@Sebrae](https://www.sebrae.com.br/sites/PortalSebrae) and [@Colegio Cognitivo](https://www.colegiocognitivo.com.br/)  as  their virtual environment. I'm working in new features and fixing bugs.
+## 💻 Professional projects I worked
+- [**Redu**](https://redu.digital/): Redu is a learning environment using Opensource code [@Openredu](http://openredu.org/) and used by big Education companies like [@Sebrae](https://www.sebrae.com.br/sites/PortalSebrae) and [@Colegio Cognitivo](https://www.colegiocognitivo.com.br/)  as  their virtual environment. I worked in new features and fixing bugs.
 
 > **Framework:** Ruby on rails using Docker | 
 > **Front-end:** HTML, CSS, JS, Jquery, eRuby and SCSS | 
@@ -34,8 +34,6 @@ Currently, a Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) a
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">  
-  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> 
-  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"> 
 </div>
   
   ##

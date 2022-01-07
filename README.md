@@ -1,5 +1,5 @@
 # Hi there, I'm Paulo Matheus 🙋‍♂️👋
-Currently, a  BS in Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) (5/9) and Data Engineer Intern [@ClearSale](https://br.clear.sale/).
+Currently, a  BS in Computer Science student at [@UFPE](https://www3.cin.ufpe.br/en/) (5/9) and Data Engineer Intern at [@ClearSale](https://br.clear.sale/).
 
 ## 🤘 Quick facts about me
 ❤️ Driven by **problem solving** and **learning** new technologies. Currently, excited about data engineering, data science, data visualization and good development practices. In my spare time I like to play different sports: volleyball, muay thai and soccer;  and stay with my people.

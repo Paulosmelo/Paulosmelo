@@ -5,7 +5,7 @@ Currently, a  BS in Computer Science student at [@UFPE](https://www3.cin.ufpe.br
 ❤️ Driven by **problem solving** and **learning** new technologies. Currently, excited about data engineering, data science, data visualization and good development practices. In my spare time I like to play different sports: volleyball, muay thai and soccer;  and stay with my people.
 
 
-## 💻 Professional projects I worked
+## 💻 Professional experience
 - [**Redu**](https://redu.digital/): Redu is a learning environment using Opensource code [@Openredu](http://openredu.org/) and used by big Education companies like [@Sebrae](https://www.sebrae.com.br/sites/PortalSebrae) and [@Colegio Cognitivo](https://www.colegiocognitivo.com.br/)  as  their virtual environment. I worked in new features and fixing bugs.
 
 > **Framework:** Ruby on rails using Docker | 

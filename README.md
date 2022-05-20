@@ -12,6 +12,10 @@ Currently, a  BS in Computer Science student at [@UFPE](https://www3.cin.ufpe.br
 > **Front-end:** HTML, CSS, JS, Jquery, eRuby and SCSS | 
 > **Back-end:** Ruby and MySql.
 
+- [**Clearsale**](https://br.clear.sale): Working to create and manage ETL pipelines to OLAP and OLTP environments. 
+
+> **databases** MySql Server and Synapses Analytics
+
 
 ## 📜 What have I been coding with?
 <!-- stats -->
